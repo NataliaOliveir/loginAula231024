@@ -1,0 +1,101 @@
+* *{ 
+
+    margin: 0; 
+
+    padding: 0; 
+
+ 
+
+} 
+
+ 
+
+body{ 
+
+    background-color: rgb(53, 7, 90); 
+
+    
+
+} 
+
+ 
+
+.container{ 
+
+    display: flex; 
+background-color: blueviolet;
+    height: 100vh; 
+
+    justify-content: center; 
+
+    align-items: center; 
+
+ 
+
+} 
+
+ 
+
+.caixa{ 
+
+    background-color: hsl(60, 32%, 91%); 
+
+    padding: 20px; 
+
+    display: flex; 
+
+    flex-direction: column; 
+
+    border-radius: 10px; 
+
+    width: 40vh; 
+
+} 
+
+ 
+
+ 
+
+label { 
+
+    margin-top: 20px; 
+
+    margin-bottom: 5px; 
+
+    font-size: 20px; 
+
+} 
+
+ 
+
+ 
+
+input { 
+
+    padding: 10px; 
+
+    font-size: 18px; 
+
+    border-radius: 10px 
+
+} 
+
+ 
+
+ 
+
+.btn{ 
+
+    margin-top: 10px; 
+
+    margin-bottom: 20px; 
+
+    padding: 10px; 
+
+    cursor: pointer; 
+
+    border-radius: 5px; 
+
+    background-color: rgb(199, 109, 252); 
+
+} 
